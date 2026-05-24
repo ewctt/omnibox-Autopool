@@ -37,7 +37,24 @@ let stats = {
 for (const url of urls) {
   try {
     const res = await fetch(url);
-    const data = await res.json();
+    const text = await res.text(); // 先拿纯文本，防止 json() 直接崩溃
+
+    let data;
+    try {
+      // 1. 尝试直接作为普通 JSON 解析
+      data = JSON.parse(text);
+    } catch {
+      // 2. 如果失败，尝试作为 Base64 解密后再解析
+      try {
+        console.log("检测到加密或特殊格式，尝试 Base64 解密:", url);
+        // 去掉可能存在的 TVBox 伪装头（如 ** 或者 #）
+        const cleanedText = text.replace(/^[#\*]+/, "").trim(); 
+        const decodedText = Buffer.from(cleanedText, "base64").toString("utf-8");
+        data = JSON.parse(decodedText);
+      } catch (decodeErr) {
+        throw new Error("标准 JSON 和 Base64 解密均失败");
+      }
+    }
 
     stats.totalSources++;
 
@@ -48,11 +65,10 @@ for (const url of urls) {
     }
 
     console.log("读取成功:", url);
-  } catch {
-    console.log("读取失败:", url);
+  } catch (err) {
+    console.log("读取失败:", url, "原因:", err.message);
   }
 }
-
 // ===== 提取接口 =====
 let extracted = [];
 
