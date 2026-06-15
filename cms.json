@@ -1,382 +1,382 @@
 [
   {
-    "name": "乐子HTTP",
-    "api": "http://cj.lziapi.com/api.php/provide/vod",
-    "speed": 29
-  },
-  {
-    "name": "非凡线路1",
-    "api": "http://ffzy1.tv/api.php/provide/vod",
-    "speed": 57
+    "name": "光速HTTP",
+    "api": "http://api.guangsuapi.com/api.php/provide/vod",
+    "speed": 40
   },
   {
     "name": "百度云资源",
     "api": "https://api.apibdzy.com/api.php/provide/vod",
-    "speed": 65
-  },
-  {
-    "name": "光速资源",
-    "api": "https://api.guangsuapi.com/api.php/provide/vod",
-    "speed": 69
-  },
-  {
-    "name": "U酷资源88",
-    "api": "https://api.ukuapi88.com/api.php/provide/vod",
-    "speed": 69
-  },
-  {
-    "name": "无尽ME",
-    "api": "https://api.wujinapi.me/api.php/provide/vod",
-    "speed": 79
-  },
-  {
-    "name": "光速HTTP",
-    "api": "http://api.guangsuapi.com/api.php/provide/vod",
-    "speed": 80
-  },
-  {
-    "name": "虎牙资源",
-    "api": "https://www.huyaapi.com/api.php/provide/vod",
-    "speed": 86
-  },
-  {
-    "name": "155",
-    "api": "https://155api.com/api.php/provide/vod",
-    "speed": 93
+    "speed": 59
   },
   {
     "name": "爱蛋资源",
     "api": "https://lovedan.net/api.php/provide/vod",
-    "speed": 94
-  },
-  {
-    "name": "极速资源",
-    "api": "https://jszyapi.com/api.php/provide/vod",
-    "speed": 96
-  },
-  {
-    "name": "索尼资源",
-    "api": "https://suoniapi.com/api.php/provide/vod",
-    "speed": 96
-  },
-  {
-    "name": "暴风APP",
-    "api": "https://app.bfzyapi.com/api.php/provide/vod",
-    "speed": 101
-  },
-  {
-    "name": "百万资源",
-    "api": "https://api.bwzyz.com/api.php/provide/vod",
-    "speed": 102
-  },
-  {
-    "name": "步步高资源",
-    "api": "https://api.yparse.com/api/json",
-    "speed": 106
-  },
-  {
-    "name": "鲸鱼资源",
-    "api": "https://jyzyapi.com/provide/vod",
-    "speed": 108
-  },
-  {
-    "name": "最大资源",
-    "api": "https://api.zuidapi.com/api.php/provide/vod",
-    "speed": 117
-  },
-  {
-    "name": "金鹰点播",
-    "api": "https://jinyingzy.com/api.php/provide/vod",
-    "speed": 118
-  },
-  {
-    "name": "暴风资源",
-    "api": "https://bfzyapi.com/api.php/provide/vod",
-    "speed": 122
-  },
-  {
-    "name": "无尽资源",
-    "api": "https://api.wujinapi.com/api.php/provide/vod",
-    "speed": 130
-  },
-  {
-    "name": "jkun",
-    "api": "https://jkunzyapi.com/api.php/provide/vod",
-    "speed": 131
-  },
-  {
-    "name": "牛牛点播",
-    "api": "https://api.niuniuzy.me/api.php/provide/vod",
-    "speed": 145
-  },
-  {
-    "name": "索尼-闪电",
-    "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
-    "speed": 150
-  },
-  {
-    "name": "乐子资源",
-    "api": "https://cj.lziapi.com/api.php/provide/vod",
-    "speed": 155
-  },
-  {
-    "name": "香奶儿资源站",
-    "api": "https://www.gdlsp.com/api/json.php",
-    "speed": 169
-  },
-  {
-    "name": "无尽CC",
-    "api": "https://api.wujinapi.cc/api.php/provide/vod",
-    "speed": 170
-  },
-  {
-    "name": "卧龙资源",
-    "api": "https://wolongzyw.com/api.php/provide/vod",
-    "speed": 174
-  },
-  {
-    "name": "红牛资源3",
-    "api": "https://www.hongniuzy3.com/api.php/provide/vod",
-    "speed": 180
+    "speed": 84
   },
   {
     "name": "黄色仓库",
     "api": "https://hsckzy.vip/api.php/provide/vod",
+    "speed": 88
+  },
+  {
+    "name": "光速资源",
+    "api": "https://api.guangsuapi.com/api.php/provide/vod",
+    "speed": 92
+  },
+  {
+    "name": "U酷资源88",
+    "api": "https://api.ukuapi88.com/api.php/provide/vod",
+    "speed": 103
+  },
+  {
+    "name": "无尽ME",
+    "api": "https://api.wujinapi.me/api.php/provide/vod",
+    "speed": 109
+  },
+  {
+    "name": "金鹰点播",
+    "api": "https://jinyingzy.com/api.php/provide/vod",
+    "speed": 125
+  },
+  {
+    "name": "步步高资源",
+    "api": "https://api.yparse.com/api/json",
+    "speed": 136
+  },
+  {
+    "name": "最大资源",
+    "api": "https://api.zuidapi.com/api.php/provide/vod",
+    "speed": 150
+  },
+  {
+    "name": "暴风APP",
+    "api": "https://app.bfzyapi.com/api.php/provide/vod",
+    "speed": 181
+  },
+  {
+    "name": "jkun",
+    "api": "https://jkunzyapi.com/api.php/provide/vod",
     "speed": 184
-  },
-  {
-    "name": "优酷资源",
-    "api": "https://api.ukuapi.com/api.php/provide/vod",
-    "speed": 189
-  },
-  {
-    "name": "丫丫点播",
-    "api": "https://cj.yayazy.net/api.php/provide/vod",
-    "speed": 195
-  },
-  {
-    "name": "CK",
-    "api": "https://www.ckzy1.com/api.php/provide/vod",
-    "speed": 198
-  },
-  {
-    "name": "天涯海角",
-    "api": "https://tyyszyapi.com/api.php/provide/vod",
-    "speed": 199
   },
   {
     "name": "无尽NET",
     "api": "https://api.wujinapi.net/api.php/provide/vod",
-    "speed": 199
+    "speed": 189
   },
   {
-    "name": "最大点播",
-    "api": "http://zuidazy.me/api.php/provide/vod",
-    "speed": 199
+    "name": "极速资源",
+    "api": "https://jszyapi.com/api.php/provide/vod",
+    "speed": 191
   },
   {
-    "name": "玉兔",
-    "api": "https://yutuzy10.com/api.php/provide/vod",
-    "speed": 200
+    "name": "虎牙资源",
+    "api": "https://www.huyaapi.com/api.php/provide/vod",
+    "speed": 193
   },
   {
-    "name": "天涯资源",
-    "api": "https://tyyszy.com/api.php/provide/vod",
-    "speed": 205
-  },
-  {
-    "name": "红牛资源",
-    "api": "https://www.hongniuzy2.com/api.php/provide/vod",
-    "speed": 207
-  },
-  {
-    "name": "lsb",
-    "api": "https://apilsbzy1.com/api.php/provide/vod",
-    "speed": 208
-  },
-  {
-    "name": "黄AV资源站",
-    "api": "https://www.pgxdy.com/api/json.php",
-    "speed": 211
+    "name": "CK",
+    "api": "https://www.ckzy1.com/api.php/provide/vod",
+    "speed": 196
   },
   {
     "name": "小鸡资源",
     "api": "https://api.xiaojizy.live/provide/vod",
-    "speed": 212
+    "speed": 199
   },
   {
-    "name": "乐播资源",
-    "api": "https://lbapi9.com/api.php/provide/vod",
-    "speed": 224
+    "name": "lsb",
+    "api": "https://apilsbzy1.com/api.php/provide/vod",
+    "speed": 200
   },
   {
-    "name": "閃電资源",
-    "api": "https://sdzyapi.com/api.php/provide/vod",
-    "speed": 229
+    "name": "鲸鱼资源",
+    "api": "https://jyzyapi.com/provide/vod",
+    "speed": 201
   },
   {
-    "name": "非凡采集HTTPS",
-    "api": "https://cj.ffzyapi.com/api.php/provide/vod",
-    "speed": 233
+    "name": "玉兔",
+    "api": "https://yutuzy10.com/api.php/provide/vod",
+    "speed": 201
   },
   {
-    "name": "白嫖资源站",
-    "api": "https://www.kxgav.com/api/json.php",
-    "speed": 234
+    "name": "无尽CC",
+    "api": "https://api.wujinapi.cc/api.php/provide/vod",
+    "speed": 211
+  },
+  {
+    "name": "丫丫点播",
+    "api": "https://cj.yayazy.net/api.php/provide/vod",
+    "speed": 219
   },
   {
     "name": "新浪资源",
     "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod",
-    "speed": 235
+    "speed": 227
   },
   {
-    "name": "iKun资源",
-    "api": "https://ikunzyapi.com/api.php/provide/vod",
-    "speed": 267
+    "name": "卧龙资源",
+    "api": "https://wolongzyw.com/api.php/provide/vod",
+    "speed": 232
   },
   {
-    "name": "美少女资源站",
-    "api": "https://www.msnii.com/api/json.php",
-    "speed": 268
+    "name": "红牛资源",
+    "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+    "speed": 236
+  },
+  {
+    "name": "乐子资源",
+    "api": "https://cj.lziapi.com/api.php/provide/vod",
+    "speed": 238
   },
   {
     "name": "飘零资源",
     "api": "https://p2100.net/api.php/provide/vod",
+    "speed": 241
+  },
+  {
+    "name": "牛牛点播",
+    "api": "https://api.niuniuzy.me/api.php/provide/vod",
+    "speed": 246
+  },
+  {
+    "name": "暴风资源",
+    "api": "https://bfzyapi.com/api.php/provide/vod",
+    "speed": 255
+  },
+  {
+    "name": "天涯资源",
+    "api": "https://tyyszy.com/api.php/provide/vod",
+    "speed": 258
+  },
+  {
+    "name": "乐子HTTP",
+    "api": "http://cj.lziapi.com/api.php/provide/vod",
     "speed": 269
-  },
-  {
-    "name": "淫水机资源站",
-    "api": "https://www.xrbsp.com/api/json.php",
-    "speed": 273
-  },
-  {
-    "name": "速博资源",
-    "api": "https://subocaiji.com/api.php/provide/vod",
-    "speed": 289
-  },
-  {
-    "name": "海豚资源",
-    "api": "https://hhzyapi.com/api.php/provide/vod",
-    "speed": 299
   },
   {
     "name": "91麻豆",
     "api": "https://91md.me/api.php/provide/vod",
+    "speed": 301
+  },
+  {
+    "name": "天涯海角",
+    "api": "https://tyyszyapi.com/api.php/provide/vod",
+    "speed": 306
+  },
+  {
+    "name": "黄AV资源站",
+    "api": "https://www.pgxdy.com/api/json.php",
+    "speed": 306
+  },
+  {
+    "name": "索尼-闪电",
+    "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
     "speed": 308
   },
   {
-    "name": "樱花资源",
-    "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+    "name": "閃電资源",
+    "api": "https://sdzyapi.com/api.php/provide/vod",
+    "speed": 309
+  },
+  {
+    "name": "索尼资源",
+    "api": "https://suoniapi.com/api.php/provide/vod",
+    "speed": 318
+  },
+  {
+    "name": "红牛资源3",
+    "api": "https://www.hongniuzy3.com/api.php/provide/vod",
+    "speed": 327
+  },
+  {
+    "name": "海豚资源",
+    "api": "https://hhzyapi.com/api.php/provide/vod",
+    "speed": 328
+  },
+  {
+    "name": "香奶儿资源站",
+    "api": "https://www.gdlsp.com/api/json.php",
     "speed": 343
-  },
-  {
-    "name": "非凡资源",
-    "api": "http://ffzy5.tv/api.php/provide/vod",
-    "speed": 380
-  },
-  {
-    "name": "细胞采集",
-    "api": "https://www.xxibaozyw.com/api.php/provide/vod",
-    "speed": 427
-  },
-  {
-    "name": "番号资源",
-    "api": "http://fhapi9.com/api.php/provide/vod",
-    "speed": 455
-  },
-  {
-    "name": "旺旺API",
-    "api": "https://api.wwzy.tv/api.php/provide/vod",
-    "speed": 475
-  },
-  {
-    "name": "旺旺资源",
-    "api": "https://wwzy.tv/api.php/provide/vod",
-    "speed": 487
-  },
-  {
-    "name": "1080JSON",
-    "api": "https://api.1080zyku.com/inc/apijson.php",
-    "speed": 728
-  },
-  {
-    "name": "精品资源",
-    "api": "https://www.jingpinx.com/api.php/provide/vod",
-    "speed": 732
-  },
-  {
-    "name": "奥斯卡资源",
-    "api": "https://aosikazy.com/api.php/provide/vod",
-    "speed": 752
-  },
-  {
-    "name": "电影天堂",
-    "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-    "speed": 764
   },
   {
     "name": "豆瓣资源",
     "api": "https://dbzy.tv/api.php/provide/vod",
-    "speed": 854
+    "speed": 353
   },
   {
-    "name": "新浪HTTPS",
-    "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
-    "speed": 866
+    "name": "白嫖资源站",
+    "api": "https://www.kxgav.com/api/json.php",
+    "speed": 360
+  },
+  {
+    "name": "优酷资源",
+    "api": "https://api.ukuapi.com/api.php/provide/vod",
+    "speed": 364
+  },
+  {
+    "name": "乐播资源",
+    "api": "https://lbapi9.com/api.php/provide/vod",
+    "speed": 381
+  },
+  {
+    "name": "155",
+    "api": "https://155api.com/api.php/provide/vod",
+    "speed": 385
+  },
+  {
+    "name": "樱花资源",
+    "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+    "speed": 386
+  },
+  {
+    "name": "iKun资源",
+    "api": "https://ikunzyapi.com/api.php/provide/vod",
+    "speed": 395
+  },
+  {
+    "name": "最大点播",
+    "api": "http://zuidazy.me/api.php/provide/vod",
+    "speed": 401
+  },
+  {
+    "name": "旺旺资源",
+    "api": "https://wwzy.tv/api.php/provide/vod",
+    "speed": 428
+  },
+  {
+    "name": "旺旺API",
+    "api": "https://api.wwzy.tv/api.php/provide/vod",
+    "speed": 440
+  },
+  {
+    "name": "百万资源",
+    "api": "https://api.bwzyz.com/api.php/provide/vod",
+    "speed": 465
+  },
+  {
+    "name": "番号资源",
+    "api": "http://fhapi9.com/api.php/provide/vod",
+    "speed": 503
+  },
+  {
+    "name": "美少女资源站",
+    "api": "https://www.msnii.com/api/json.php",
+    "speed": 550
+  },
+  {
+    "name": "速博资源",
+    "api": "https://subocaiji.com/api.php/provide/vod",
+    "speed": 553
+  },
+  {
+    "name": "非凡资源",
+    "api": "http://ffzy5.tv/api.php/provide/vod",
+    "speed": 578
+  },
+  {
+    "name": "非凡线路1",
+    "api": "http://ffzy1.tv/api.php/provide/vod",
+    "speed": 638
+  },
+  {
+    "name": "精品资源",
+    "api": "https://www.jingpinx.com/api.php/provide/vod",
+    "speed": 679
+  },
+  {
+    "name": "淫水机资源站",
+    "api": "https://www.xrbsp.com/api/json.php",
+    "speed": 806
+  },
+  {
+    "name": "细胞采集",
+    "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+    "speed": 812
+  },
+  {
+    "name": "奥斯卡资源",
+    "api": "https://aosikazy.com/api.php/provide/vod",
+    "speed": 834
   },
   {
     "name": "魔都动漫",
     "api": "https://caiji.moduapi.cc/api.php/provide/vod",
-    "speed": 970
-  },
-  {
-    "name": "360资源",
-    "api": "https://360zy.com/api.php/provide/vod",
-    "speed": 993
-  },
-  {
-    "name": "非凡采集",
-    "api": "http://cj.ffzyapi.com/api.php/provide/vod",
-    "speed": 1052
-  },
-  {
-    "name": "森林资源",
-    "api": "https://slapibf.com/api.php/provide/vod",
-    "speed": 1068
-  },
-  {
-    "name": "魔都资源",
-    "api": "https://www.mdzyapi.com/api.php/provide/vod",
-    "speed": 1132
-  },
-  {
-    "name": "非凡API",
-    "api": "https://api.ffzyapi.com/api.php/provide/vod",
-    "speed": 1141
+    "speed": 848
   },
   {
     "name": "奶香香",
     "api": "https://Naixxzy.com/api.php/provide/vod",
-    "speed": 1158
+    "speed": 868
   },
   {
-    "name": "如意资源",
-    "api": "https://cj.rycjapi.com/api.php/provide/vod",
-    "speed": 1289
+    "name": "电影天堂",
+    "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+    "speed": 896
+  },
+  {
+    "name": "非凡采集",
+    "api": "http://cj.ffzyapi.com/api.php/provide/vod",
+    "speed": 943
+  },
+  {
+    "name": "非凡API",
+    "api": "https://api.ffzyapi.com/api.php/provide/vod",
+    "speed": 1007
   },
   {
     "name": "茅台资源",
     "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
-    "speed": 1303
+    "speed": 1098
+  },
+  {
+    "name": "森林资源",
+    "api": "https://slapibf.com/api.php/provide/vod",
+    "speed": 1160
+  },
+  {
+    "name": "360资源",
+    "api": "https://360zy.com/api.php/provide/vod",
+    "speed": 1162
+  },
+  {
+    "name": "非凡采集HTTPS",
+    "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+    "speed": 1207
+  },
+  {
+    "name": "无尽资源",
+    "api": "https://api.wujinapi.com/api.php/provide/vod",
+    "speed": 1247
+  },
+  {
+    "name": "魔都资源",
+    "api": "https://www.mdzyapi.com/api.php/provide/vod",
+    "speed": 1311
+  },
+  {
+    "name": "1080JSON",
+    "api": "https://api.1080zyku.com/inc/apijson.php",
+    "speed": 1352
+  },
+  {
+    "name": "如意资源",
+    "api": "https://cj.rycjapi.com/api.php/provide/vod",
+    "speed": 1762
   },
   {
     "name": "魔都影视",
     "api": "https://www.moduzy.com/api.php/provide/vod",
-    "speed": 1769
+    "speed": 1888
   },
   {
     "name": "鲨鱼资源",
     "api": "https://shayuapi.com/api.php/provide/vod",
-    "speed": 2895
+    "speed": 2326
+  },
+  {
+    "name": "新浪HTTPS",
+    "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+    "speed": 2566
   }
 ]
